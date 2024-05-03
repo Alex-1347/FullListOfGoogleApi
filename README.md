@@ -1,5 +1,5 @@
 Full list of Google API - look to this page (without formatting) - https://github.com/Alex-1347/FullListOfGoogleApi/wiki      
-With formatting look my code   
+With formatting look inside my code   
 
 To receive API key going to https://console.cloud.google.com/apis/credentials and receive API key
 
